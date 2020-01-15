@@ -1,1 +1,2 @@
 Edit contents of file
+Another edit to the ignorefile
